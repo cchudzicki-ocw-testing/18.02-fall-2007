@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 13 Summary ([PDF](resources/lec_week13
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Stokes'' Theorem (cont.)'
 uid: 116d27ed-f533-c196-e918-69aeaa6e7c95

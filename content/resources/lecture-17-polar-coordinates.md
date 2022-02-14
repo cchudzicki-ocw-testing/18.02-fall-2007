@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 7 Summary ([PDF](resources/lec_week7
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Polar Coordinates'
 uid: adf1dbca-37ab-53ba-28b3-218a7a5fb958

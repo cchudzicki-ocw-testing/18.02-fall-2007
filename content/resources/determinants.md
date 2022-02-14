@@ -4,7 +4,12 @@ description: Supplementary notes on determinants, Laplace expansion by cofactors
   and area and volume interpretation of the determinant.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/60d63f4aa52f7cc54ba6b12a0c7c6080_determinants.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: D. Determinants
+type: OCWFile
 uid: 60d63f4a-a52f-7cc5-4ba6-b12a0c7c6080
 ---

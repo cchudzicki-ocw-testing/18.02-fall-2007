@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "\_Lecture Notes - Week 11 Summary ([PDF](resources/lec_week11\
+  \ \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Vector Fields in 3D'
 uid: c501a9e7-40ed-1349-3e6c-1be1751f2c1e

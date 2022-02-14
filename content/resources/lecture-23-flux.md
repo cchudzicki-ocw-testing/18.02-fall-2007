@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 9 Summary ([PDF](resources/lec_week9
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Flux'
 uid: fdb9c55a-d56c-9ffe-6706-81fe45aa1363

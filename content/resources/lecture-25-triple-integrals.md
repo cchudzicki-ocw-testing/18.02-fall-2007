@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "\_Lecture Notes - Week 10 Summary ([PDF](resources/lec_week10\
+  \ \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Triple Integrals'
 uid: 95f786f9-22b8-2706-f3a6-49c8533c7ecd

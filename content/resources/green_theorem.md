@@ -5,7 +5,12 @@ description: "Supplementary notes on Green's theorem in normal form, Green's the
   \r\n"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/80f491ca5f3d28fb0fb0837c2c03dd8f_green_theorem.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: V4. Green's Theorem in Normal Form
+type: OCWFile
 uid: 80f491ca-5f3d-28fb-0fb0-837c2c03dd8f
 ---

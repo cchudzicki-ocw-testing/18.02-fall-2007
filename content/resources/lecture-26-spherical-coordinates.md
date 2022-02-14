@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 11 Summary ([PDF](resources/lec_week11
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Spherical Coordinates'
 uid: 11e7e0f6-be6e-2f37-5ff9-ab3ed7b74436

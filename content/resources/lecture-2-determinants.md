@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 1 Summary ([PDF](resources/lec_week1
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Determinants'
 uid: 59b952a4-2eb6-e495-45dd-16af5764301f

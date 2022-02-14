@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "\_Lecture Notes - Week 14 Summary ([PDF](resources/lec_week14\
+  \ \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 34: Final Review'
 uid: b54127f8-c782-383a-87f0-1902e9b4e930

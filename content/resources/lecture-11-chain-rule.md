@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 5 Summary ([PDF](resources/lec_week5
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Chain Rule'
 uid: bc05b85a-2742-4235-b84f-aa6d5f6ad9e5

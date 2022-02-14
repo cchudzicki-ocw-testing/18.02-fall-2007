@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "\_Lecture Notes - Week 10 Summary ([PDF](resources/lec_week10\
+  \ \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Simply Connected Regions'
 uid: 3ea4cf16-1566-2204-fa8b-8128ac18a4b5

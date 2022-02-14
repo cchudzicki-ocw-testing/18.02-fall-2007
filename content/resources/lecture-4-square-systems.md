@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 2 Summary ([PDF](resources/lec_week2
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Square Systems'
 uid: 754e5977-5ffb-4ae0-96b9-43656cf6b9bd

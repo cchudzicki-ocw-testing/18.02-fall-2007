@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 3 Summary ([PDF](resources/lec_week3
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Exam Review'
 uid: fb55aa6c-24a5-2db5-9fdd-5bc97ba63e80

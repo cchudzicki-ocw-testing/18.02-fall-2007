@@ -5,7 +5,12 @@ description: Supplementary exercises on line integrals in the plane, plane vecto
   flux, simply-connected regions, and multiply-connected regions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/c72e515e67f30f3e30de5693daf1b687_line_intgrl_plan.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 4. Line Integrals in the Plane
+type: OCWFile
 uid: c72e515e-67f3-0f3e-30de-5693daf1b687
 ---

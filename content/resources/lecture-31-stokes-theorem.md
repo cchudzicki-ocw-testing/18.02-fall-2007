@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 13 Summary ([PDF](resources/lec_week13
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 31: Stokes'' Theorem'
 uid: 93c32768-2ec2-57f4-f577-bd8e43414e73

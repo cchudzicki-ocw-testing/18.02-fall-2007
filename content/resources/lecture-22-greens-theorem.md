@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 9 Summary ([PDF](resources/lec_week9
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Green''s Theorem'
 uid: dcbc1462-a3cd-2379-c405-327ef53ae39f

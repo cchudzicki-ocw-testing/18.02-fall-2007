@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 9 Summary ([PDF](resources/lec_week9
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Gradient Fields'
 uid: f1b9502b-54a3-63d2-0210-26db4425e124

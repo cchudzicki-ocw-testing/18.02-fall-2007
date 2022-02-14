@@ -5,7 +5,12 @@ description: Lecture summary for Week 1.  Topics include the goal of multivariat
   and triple product.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/649253ba60d11b0598cc58e9dcf58142_lec_week1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Week 1 Summary
+type: OCWFile
 uid: 649253ba-60d1-1b05-98cc-58e9dcf58142
 ---

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 12 Summary ([PDF](resources/lec_week12
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 29: Divergence Theorem (cont.)'
 uid: adfa16ca-5cf7-0b08-3b4f-60a56da07aa3

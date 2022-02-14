@@ -5,7 +5,12 @@ description: Lecture summary for Week 13. Topics include line integrals in space
   path independence, orientability, and surface independence.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/e1b2b1051b2cc47f6947779d221ad0e6_lec_week13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Week 13 Summary
+type: OCWFile
 uid: e1b2b105-1b2c-c47f-6947-779d221ad0e6
 ---

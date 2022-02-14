@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 4 Summary ([PDF](resources/lec_week4
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Max-Min and Least Squares'
 uid: 75a6d77f-e3da-356a-128b-6451947ae61d

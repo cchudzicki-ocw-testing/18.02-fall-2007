@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 6 Summary ([PDF](resources/lec_week6
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Non-Independent Variables'
 uid: 6808842e-986d-e800-197f-35aa756940d2

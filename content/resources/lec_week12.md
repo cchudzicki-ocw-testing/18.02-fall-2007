@@ -4,7 +4,12 @@ description: Lecture summary for Week 12. Topics include the divergence theorem,
   and proof, the Del operator, and physical interpretation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/1b3d87f397619498be5ef0194d2dc564_lec_week12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Week 12 Summary
+type: OCWFile
 uid: 1b3d87f3-9761-9498-be5e-f0194d2dc564
 ---

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 6 Summary ([PDF](resources/lec_week6
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Partial Differential Equations'
 uid: 768c786b-a0b9-3d35-8c08-7ef46c339cc9

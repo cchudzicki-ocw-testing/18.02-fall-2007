@@ -4,7 +4,12 @@ description: Supplementary notes on vector integral calculus, Stokes' theorem, a
   topological questions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/7a04b732399de854f5ecfaf8cc996735_topological_ques.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: V14. Some Topological Questions
+type: OCWFile
 uid: 7a04b732-399d-e854-f5ec-faf8cc996735
 ---

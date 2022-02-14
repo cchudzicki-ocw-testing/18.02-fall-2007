@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 7 Summary ([PDF](resources/lec_week7
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Double Integrals'
 uid: b9b68a2a-774e-3642-dc2a-e64b59c5b3f1

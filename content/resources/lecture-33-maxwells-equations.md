@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes - Week 14 Summary ([PDF](resources/lec_week14
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 33: Maxwell''s Equations'
 uid: 2f746b72-25c6-b664-f528-3f22805f541f

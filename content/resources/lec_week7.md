@@ -4,7 +4,12 @@ description: Lecture summary for Week 7. Topics include double integrals, exchan
   order of integration, and integration in polar coordinates.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/b650aa66e211773df2cb871ae60e56de_lec_week7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Week 7 Summary
+type: OCWFile
 uid: b650aa66-e211-773d-f2cb-871ae60e56de
 ---

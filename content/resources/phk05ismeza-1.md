@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-02-multivariable-calculus-fall-2007/1e8454840e4a5ba924294fb34ac4dda1_phk05iSMezA.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 1e845484-0e4a-5ba9-2429-4fb34ac4dda1
 ---

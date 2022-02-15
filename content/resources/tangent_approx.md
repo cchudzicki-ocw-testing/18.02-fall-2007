@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: TA. The Tangent Approximation
-type: OCWFile
 uid: 6953b35d-3aeb-d8e0-3b62-9c349ba5b559
 ---

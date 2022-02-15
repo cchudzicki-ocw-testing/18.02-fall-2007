@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 5. Triple Integrals
-type: OCWFile
 uid: 7ff072cd-961f-aad1-4e5d-02bdac1ddda1
 ---

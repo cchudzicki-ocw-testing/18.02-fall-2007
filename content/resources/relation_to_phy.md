@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V15. Relation to Physics
-type: OCWFile
 uid: 09ae8ccf-ce72-c488-3f1c-edf16213f381
 ---

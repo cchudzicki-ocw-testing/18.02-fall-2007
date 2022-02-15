@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Week 8 Summary
-type: OCWFile
 uid: fc290ffd-36e6-ad41-4dd3-03887f353523
 ---

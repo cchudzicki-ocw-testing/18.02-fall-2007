@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: SD. Second Derivative Test
-type: OCWFile
 uid: 8ba72b6c-820c-6d19-66c7-894124070f0a
 ---

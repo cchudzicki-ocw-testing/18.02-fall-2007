@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: N. Non-independent Variables
-type: OCWFile
 uid: 8515a1da-4c8e-0b04-3740-c8b7e32775f1
 ---

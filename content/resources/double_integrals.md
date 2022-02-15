@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 3. Double Integrals
-type: OCWFile
 uid: 1f347ef1-5edb-c881-7a6e-a296d57362f2
 ---

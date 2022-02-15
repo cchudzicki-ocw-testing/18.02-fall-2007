@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V7. Laplace's Equation and Harmonic Functions
-type: OCWFile
 uid: f1a0cf39-eb77-687f-6ae2-91acd0f7cdd8
 ---

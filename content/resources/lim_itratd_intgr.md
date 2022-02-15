@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: I. Limits in Iterated Integrals
-type: OCWFile
 uid: 7e2115bc-8fe1-e946-53da-9c8553954f47
 ---

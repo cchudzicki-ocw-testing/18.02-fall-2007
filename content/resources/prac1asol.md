@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Practice Exam 1A - Solutions
-type: OCWFile
 uid: dd2524a8-ad4d-5784-9793-09d6b3cacb6c
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V1. Plane Vector Fields
-type: OCWFile
 uid: d6767e9b-7f35-3a29-a610-24a2db662fe1
 ---

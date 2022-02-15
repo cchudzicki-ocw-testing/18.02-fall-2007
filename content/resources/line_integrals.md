@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V11. Line Integrals in Space
-type: OCWFile
 uid: e093a895-deda-a47e-2ef7-5b194aca0664
 ---

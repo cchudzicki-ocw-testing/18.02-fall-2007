@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Week 4 Summary
-type: OCWFile
 uid: a107b033-5c1b-55a8-0c8b-4b37540cccac
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V9. Surface Integrals
-type: OCWFile
 uid: b99f7b21-fccb-e519-c083-9995574b4da8
 ---

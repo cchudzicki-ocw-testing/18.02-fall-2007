@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Week 12 Summary
-type: OCWFile
 uid: 1b3d87f3-9761-9498-be5e-f0194d2dc564
 ---

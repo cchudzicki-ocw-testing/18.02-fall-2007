@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: matlab.pdf
-type: OCWFile
 uid: 7599851f-7bf7-2afe-6015-fb53b6891d63
 ---

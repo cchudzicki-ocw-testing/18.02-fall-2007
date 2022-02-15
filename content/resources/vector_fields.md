@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V8. Vector Fields in Space
-type: OCWFile
 uid: bb9a0f40-aa10-64f4-e8f3-650149b84b81
 ---

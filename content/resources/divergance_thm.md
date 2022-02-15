@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V10. The Divergence Theorem
-type: OCWFile
 uid: 9afd2929-01a4-a429-e5a8-eaad83a7fb6d
 ---

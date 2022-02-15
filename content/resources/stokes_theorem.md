@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V13. Stokes' Theorem
-type: OCWFile
 uid: e1401b5b-dc16-94b9-e86f-64d626234a41
 ---

@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Week 11 Summary
-type: OCWFile
 uid: c081c812-df4a-020e-26de-273c7cea957c
 ---

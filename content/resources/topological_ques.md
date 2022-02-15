@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V14. Some Topological Questions
-type: OCWFile
 uid: 7a04b732-399d-e854-f5ec-faf8cc996735
 ---

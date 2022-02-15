@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V4. Green's Theorem in Normal Form
-type: OCWFile
 uid: 80f491ca-5f3d-28fb-0fb0-837c2c03dd8f
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: D. Determinants
-type: OCWFile
 uid: 60d63f4a-a52f-7cc5-4ba6-b12a0c7c6080
 ---

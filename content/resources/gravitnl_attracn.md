@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: G. Gravitational Attraction
-type: OCWFile
 uid: 759e65e6-6759-922d-dcb5-96c3c9e392e1
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Practice Exam 3A - Solutions
-type: OCWFile
 uid: 1df63ab6-21e3-03a8-7e79-39d5a2ec3e29
 ---

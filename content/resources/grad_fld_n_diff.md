@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V2. Gradient Fields and Exact Differentials
-type: OCWFile
 uid: b31988ba-b852-1ba9-d7d7-fef4800ccd6f
 ---

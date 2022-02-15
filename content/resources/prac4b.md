@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Practice Exam 4B
-type: OCWFile
 uid: d51b9801-aeda-7266-a7b3-d97e8163d8ef
 ---

@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Practice Exam 3B
-type: OCWFile
 uid: 43217ab6-605a-bc84-44ea-8b4a78f51419
 ---

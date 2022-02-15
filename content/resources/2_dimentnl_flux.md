@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V3. Two-dimensional Flux
-type: OCWFile
 uid: b157e0b0-bd5c-0017-9bb5-e2c1fda6b08b
 ---

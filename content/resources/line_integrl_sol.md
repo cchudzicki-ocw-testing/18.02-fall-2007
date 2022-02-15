@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 4. Line Integrals in the Plane
-type: OCWFile
 uid: 126071d7-0be3-c5d3-1866-d30c260b8974
 ---

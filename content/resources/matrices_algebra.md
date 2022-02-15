@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: M. Matrices and Linear Algebra
-type: OCWFile
 uid: 6bb3f3f7-7fca-6f30-b92b-d804276ffb26
 ---

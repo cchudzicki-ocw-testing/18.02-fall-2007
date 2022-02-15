@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: K. Kepler's Second Law
-type: OCWFile
 uid: 8051542b-0fca-f8ec-3e3c-81ed2419d3f2
 ---

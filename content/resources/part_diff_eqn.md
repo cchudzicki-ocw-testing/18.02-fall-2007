@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: P. Partial Differential Equations
-type: OCWFile
 uid: 3886d5c4-b263-1067-92cd-d6dd613d517e
 ---

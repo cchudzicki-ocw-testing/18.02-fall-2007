@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V12. Gradient Fields in Space
-type: OCWFile
 uid: f9930ed7-3e88-877a-97fa-629fb98ebcb6
 ---

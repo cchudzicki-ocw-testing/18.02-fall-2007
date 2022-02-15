@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 1. Vectors and Matrices
-type: OCWFile
 uid: e98dbac2-fcbe-843a-c021-4c1469cef065
 ---

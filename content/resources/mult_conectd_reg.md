@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: V6. Multiply-connected Regions; Topology
-type: OCWFile
 uid: 25290331-04da-2cab-fed0-33efa6931d98
 ---

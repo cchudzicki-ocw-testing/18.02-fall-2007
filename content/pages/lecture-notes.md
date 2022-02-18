@@ -39,7 +39,7 @@ LECTURE NOTES
 Vectors
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 1 summary ([PDF]({{< baseurl >}}/resources/lec_week1))
+Week 1 summary ({{< resource_link 649253ba-60d1-1b05-98cc-58e9dcf58142 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Determinants; cross product
 Matrices; inverse matrices
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 2 summary ([PDF]({{< baseurl >}}/resources/lec_week2))
+Week 2 summary ({{< resource_link 7ffb1e05-91d3-6ba7-cc9d-6b6b4e1bb587 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Kepler's second law
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Week 3 summary ([PDF]({{< baseurl >}}/resources/lec_week3))
+Week 3 summary ({{< resource_link c13c3e11-c5ec-920d-0d3d-7ede037b5016 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ Review
 Level curves; partial derivatives; tangent plane approximation
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 4 summary ([PDF]({{< baseurl >}}/resources/lec_week4))
+Week 4 summary ({{< resource_link a107b033-5c1b-55a8-0c8b-4b37540cccac "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Second derivative test; boundaries and infinity
 Differentials; chain rule
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 5 summary ([PDF]({{< baseurl >}}/resources/lec_week5))
+Week 5 summary ({{< resource_link bc9b2e5f-89f4-2650-eb46-fa9879508923 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +192,7 @@ Lagrange multipliers
 Non-independent variables
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Week 6 summary ([PDF]({{< baseurl >}}/resources/lec_week6))
+Week 6 summary ({{< resource_link 87e20497-4da4-6838-fdb6-0a4873190314 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Partial differential equations; review
 Double integrals
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Week 7 summary ([PDF]({{< baseurl >}}/resources/lec_week7))
+Week 7 summary ({{< resource_link b650aa66-e211-773d-f2cb-871ae60e56de "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +240,7 @@ Double integrals in polar coordinates; applications
 Change of variables
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 8 summary ([PDF]({{< baseurl >}}/resources/lec_week8))
+Week 8 summary ({{< resource_link fc290ffd-36e6-ad41-4dd3-03887f353523 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +270,7 @@ Path independence and conservative fields
 Gradient fields and potential functions
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 9 summary ([PDF]({{< baseurl >}}/resources/lec_week9))
+Week 9 summary ({{< resource_link 14a8493b-19c4-2b8f-bbeb-9d05b5c0fd52 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +300,7 @@ Flux; normal form of Green's theorem
 Simply connected regions; review
 {{< tdclose >}}
 {{< tdopen >}}
-Week 10 summary ([PDF]({{< baseurl >}}/resources/lec_week10))
+Week 10 summary ({{< resource_link f7eb6520-6a72-8a60-1080-5ff4a8421312 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ Week 10 summary ([PDF]({{< baseurl >}}/resources/lec_week10))
 Triple integrals in rectangular and cylindrical coordinates
 {{< tdclose >}}
 {{< tdopen >}}
-Week 10 summary ([PDF]({{< baseurl >}}/resources/lec_week10))
+Week 10 summary ({{< resource_link f7eb6520-6a72-8a60-1080-5ff4a8421312 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,7 +330,7 @@ Week 10 summary ([PDF]({{< baseurl >}}/resources/lec_week10))
 Spherical coordinates; surface area
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 11 summary ([PDF]({{< baseurl >}}/resources/lec_week11))
+Week 11 summary ({{< resource_link c081c812-df4a-020e-26de-273c7cea957c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ Divergence theorem
 Divergence theorem (cont.): applications and proof
 {{< tdclose >}}
 {{< tdopen >}}
-Week 12 summary ([PDF]({{< baseurl >}}/resources/lec_week12))
+Week 12 summary ({{< resource_link 1b3d87f3-9761-9498-be5e-f0194d2dc564 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,7 +372,7 @@ Week 12 summary ([PDF]({{< baseurl >}}/resources/lec_week12))
 Line integrals in space, curl, exactness and potentials
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 13 summary ([PDF]({{< baseurl >}}/resources/lec_week13))
+Week 13 summary ({{< resource_link e1b2b105-1b2c-c47f-6947-779d221ad0e6 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -408,7 +408,7 @@ Maxwell's equations
 
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-Week 14 summary ([PDF]({{< baseurl >}}/resources/lec_week14))
+Week 14 summary ({{< resource_link 845e1cb6-35c0-019a-ba7c-56e6d38710f5 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

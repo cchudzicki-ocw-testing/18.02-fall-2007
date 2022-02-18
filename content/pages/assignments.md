@@ -12,7 +12,7 @@ Format
 
 Problem Sets have two parts, A and B.
 
-**Part A** has problems from the text ( Edwards, Henry C., and David E. Penney. _Multivariable Calculus_. 6th ed. Lebanon, IN: Prentice Hall, 2002. ISBN: 9780130339676), with answers to many in the back of the text, and problems from the [18.02 Supplementary Notes and Problems]({{< baseurl >}}/pages/readings/supp_notes) with solutions at the end of the Notes. Look at the solutions if you get stuck, but try to do as much as possible without them. Hand in the underlined problems only; the others are for more practice. Part A will be graded quickly, checking that the problems are there and the solutions not merely copied.
+**Part A** has problems from the text ( Edwards, Henry C., and David E. Penney. _Multivariable Calculus_. 6th ed. Lebanon, IN: Prentice Hall, 2002. ISBN: 9780130339676), with answers to many in the back of the text, and problems from the {{< resource_link 9fa067c1-918e-c234-1bcb-156f6c4d73ad "18.02 Supplementary Notes and Problems" >}} with solutions at the end of the Notes. Look at the solutions if you get stuck, but try to do as much as possible without them. Hand in the underlined problems only; the others are for more practice. Part A will be graded quickly, checking that the problems are there and the solutions not merely copied.
 
 **Part B** consists of unsolved problems, is worth more points, and will be graded more carefully. Many of these problems are longer multi-part exercises posed here because they do not fit conveniently into an exam or short-answer format.
 
@@ -37,33 +37,33 @@ Notation example:
 
 12.1/17 = Edwards text, Section 12.1, problem 17
 
-1A/1 = [Supplementary Notes and Exercises]({{< baseurl >}}/pages/readings/supp_notes): 1A-1
+1A/1 = {{< resource_link 9fa067c1-918e-c234-1bcb-156f6c4d73ad "Supplementary Notes and Exercises" >}}: 1A-1
 
 Assignments
 -----------
 
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ({{< resource_link 603eb921-1b64-1572-26c3-d4376025a08b "PDF" >}})
 
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 ({{< resource_link d58d4856-6a96-c5cf-4c44-e447391e87d2 "PDF" >}})
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 ({{< resource_link 8dc8a8e3-9266-b88a-bd20-09cf86a181be "PDF" >}})
 
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4 ({{< resource_link a8acb973-57d0-a49e-2bce-79f223abfe43 "PDF" >}})
 
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 5 ({{< resource_link b4036a08-3eda-0196-8709-dc22325f76d4 "PDF" >}})
 
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6 ({{< resource_link dc99ea7a-1388-36d3-d589-1a4350c2ffa3 "PDF" >}})
 
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7 ({{< resource_link 3f39207f-e8df-2ed1-086b-0fbfe08e632e "PDF" >}})
 
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
+Problem Set 8 ({{< resource_link c3c56dd8-76e6-435a-db72-26a4aee52620 "PDF" >}})
 
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps9))
+Problem Set 9 ({{< resource_link 898e4125-ad5b-4787-89b2-ff6c5072b543 "PDF" >}})
 
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/ps10))
+Problem Set 10 ({{< resource_link e9ae066b-e1eb-0fd6-6a8f-5a7631741f76 "PDF" >}})
 
-Problem Set 11 ([PDF]({{< baseurl >}}/resources/ps11))
+Problem Set 11 ({{< resource_link 7a3999a1-a12e-02f9-37ec-59431ff5e8de "PDF" >}})
 
-Problem Set 12 ([PDF]({{< baseurl >}}/resources/ps12))
+Problem Set 12 ({{< resource_link 20d6cb05-05df-a858-fd2d-5d7808f9d78a "PDF" >}})
 
-MATLAB® Instructions - Explains how to use the program MATLAB®, which students must use on some problem sets ([PDF]({{< baseurl >}}/resources/matlab))
+MATLAB® Instructions - Explains how to use the program MATLAB®, which students must use on some problem sets ({{< resource_link 7599851f-7bf7-2afe-6015-fb53b6891d63 "PDF" >}})

@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 11 Summary ([PDF](resources/lec_week11
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 11 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week11))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Spherical Coordinates'

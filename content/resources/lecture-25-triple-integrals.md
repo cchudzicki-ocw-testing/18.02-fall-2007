@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "\_Lecture Notes - Week 10 Summary ([PDF](resources/lec_week10\
-  \ \"Open in a new window.\"))"
+related_resources_text: "\_Lecture Notes - Week 10 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week10))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Triple Integrals'

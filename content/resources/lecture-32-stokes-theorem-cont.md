@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 13 Summary ([PDF](resources/lec_week13
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 13 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week13))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Stokes'' Theorem (cont.)'

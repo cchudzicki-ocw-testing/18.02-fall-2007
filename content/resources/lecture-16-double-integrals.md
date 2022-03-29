@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 7 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week7))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Double Integrals'
 uid: b9b68a2a-774e-3642-dc2a-e64b59c5b3f1
 video_files:

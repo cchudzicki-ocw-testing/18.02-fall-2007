@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: "\_Lecture Notes - Week 10 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week10))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Simply Connected Regions'
 uid: 3ea4cf16-1566-2204-fa8b-8128ac18a4b5
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 3 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week3))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Kepler''s Second Law'
 uid: a83c1b2f-84f2-0d9b-cbc1-130df14df1cf
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 5 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week5))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Lagrange Multipliers'
 uid: 776156be-63c9-2403-8a70-0b336c8ac82a
 video_files:

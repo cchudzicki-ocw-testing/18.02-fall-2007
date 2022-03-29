@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 resourcetype: Document
 title: 6. Vector Integral Calculus in Space
 uid: 318d9231-a82d-fb00-3973-047ce8919d4d

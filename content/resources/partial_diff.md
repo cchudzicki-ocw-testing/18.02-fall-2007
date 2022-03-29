@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 resourcetype: Document
 title: 2. Partial Differentiation
 uid: 2e64bdde-03a2-22e2-996c-c339fadc4cdb

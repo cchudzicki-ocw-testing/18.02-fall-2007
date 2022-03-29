@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 resourcetype: Document
 title: CV. Changing Variables in Multiple Integrals
 uid: 05f51f37-ac3b-b580-1af5-6e6879728f68

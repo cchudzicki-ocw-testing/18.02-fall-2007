@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 8 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week8))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Vector Fields'
 uid: e47d7304-3f0c-46e0-4ff6-4368e08656e7
 video_files:

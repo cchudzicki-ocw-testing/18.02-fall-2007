@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 5 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week5))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Chain Rule'
 uid: bc05b85a-2742-4235-b84f-aa6d5f6ad9e5
 video_files:

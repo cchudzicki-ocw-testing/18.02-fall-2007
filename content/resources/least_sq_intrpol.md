@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 resourcetype: Document
 title: LS. Least Squares Interpolation
 uid: 1f1dc708-5b5a-f1c4-4b69-2f037b2810f9

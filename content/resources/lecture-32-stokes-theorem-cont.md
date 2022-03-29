@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 13 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: Stokes'' Theorem (cont.)'
 uid: 116d27ed-f533-c196-e918-69aeaa6e7c95
 video_files:

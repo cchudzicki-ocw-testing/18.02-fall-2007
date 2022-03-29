@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 13 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Line Integrals'
 uid: 364a3f4c-7a64-708a-d406-583524f7b216
 video_files:

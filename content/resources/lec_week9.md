@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5c50bb59-3e16-b05f-f333-b4588cf970fb
 resourcetype: Document
 title: Week 9 Summary
 uid: 14a8493b-19c4-2b8f-bbeb-9d05b5c0fd52

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 211fcc36-f12d-152c-6667-c53f1e850e66
 resourcetype: Document
 title: Practice Exam 3A - Solutions
 uid: 1df63ab6-21e3-03a8-7e79-39d5a2ec3e29

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 11 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Spherical Coordinates'
 uid: 11e7e0f6-be6e-2f37-5ff9-ab3ed7b74436
 video_files:

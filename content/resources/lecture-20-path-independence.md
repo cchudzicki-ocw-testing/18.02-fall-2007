@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: "\_Lecture Notes - Week 8 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week8))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Path Independence'
 uid: 8c15e86c-52fc-4917-bb7a-583d00201da5
 video_files:

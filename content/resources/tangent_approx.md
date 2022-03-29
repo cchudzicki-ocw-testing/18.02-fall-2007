@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 resourcetype: Document
 title: TA. The Tangent Approximation
 uid: 6953b35d-3aeb-d8e0-3b62-9c349ba5b559

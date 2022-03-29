@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 944ff310-31b9-3511-e03a-be4fc3f603c4
 resourcetype: Document
 title: matlab.pdf
 uid: 7599851f-7bf7-2afe-6015-fb53b6891d63

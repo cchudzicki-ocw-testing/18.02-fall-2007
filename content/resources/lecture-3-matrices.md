@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes - Week 2 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week2))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Matrices'
 uid: 9f885ca5-adbd-16d0-3248-dde1bf93a6d3
 video_files:

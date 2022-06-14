@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Gradient; directional derivative; tangent plane
 
 **Instructor:** Prof. Denis Auroux
+

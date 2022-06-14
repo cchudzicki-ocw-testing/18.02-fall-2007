@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Spherical coordinates; surface area
 
 **Instructor:** Prof. Denis Auroux
+

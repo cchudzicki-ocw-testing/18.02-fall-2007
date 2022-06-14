@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Stokes' theorem (cont.); review
 
 **Instructor:** Prof. Denis Auroux
+

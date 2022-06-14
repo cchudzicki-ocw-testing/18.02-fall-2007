@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Max-min problems; least squares
 
 **Instructor:** Prof. Denis Auroux
+

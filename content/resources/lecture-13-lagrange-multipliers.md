@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Lagrange multipliers
 
 **Instructor:** Prof. Denis Auroux
+

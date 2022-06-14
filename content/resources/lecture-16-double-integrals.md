@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Double integrals
 
 **Instructor:** Prof. Denis Auroux
+

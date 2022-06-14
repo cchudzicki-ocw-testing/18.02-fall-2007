@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Change of variables
 
 **Instructor:** Prof. Denis Auroux
+

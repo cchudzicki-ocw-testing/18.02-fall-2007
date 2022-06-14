@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Line integrals in space, curl, exactness and potentials
 
 **Instructor:** Prof. Denis Auroux
+

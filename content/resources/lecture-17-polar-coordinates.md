@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Double integrals in polar coordinates; applications
 
 **Instructor:** Prof. Denis Auroux
+

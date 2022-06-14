@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Level curves; partial derivatives; tangent plane approximation
 
 **Instructor:** Prof. Denis Auroux
+

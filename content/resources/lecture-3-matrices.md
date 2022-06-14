@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Matrices; inverse matrices
 
 **Instructor:** Prof. Denis Auroux
+

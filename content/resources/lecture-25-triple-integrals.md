@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Triple integrals in rectangular and cylindrical coordinates
 
 **Instructor:** Prof. Denis Auroux
+

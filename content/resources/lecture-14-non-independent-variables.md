@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Non-independent variables
 
 **Instructor:** Prof. Denis Auroux
+

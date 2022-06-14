@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Differentials; chain rule
 
 **Instructor:** Prof. Denis Auroux
+

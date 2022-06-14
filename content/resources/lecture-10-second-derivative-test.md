@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Second derivative test; boundaries and infinity
 
 **Instructor:** Prof. Denis Auroux
+

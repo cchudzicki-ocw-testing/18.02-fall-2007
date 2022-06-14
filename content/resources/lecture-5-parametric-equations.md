@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Parametric equations for lines and curves
 
 **Instructor:** Prof. Denis Auroux
+

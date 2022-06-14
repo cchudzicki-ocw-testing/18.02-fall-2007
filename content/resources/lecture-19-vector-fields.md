@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Vector fields and line integrals in the plane
 
 **Instructor:** Prof. Denis Auroux
+

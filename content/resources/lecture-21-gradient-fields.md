@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Gradient fields and potential functions
 
 **Instructor:** Prof. Denis Auroux
+

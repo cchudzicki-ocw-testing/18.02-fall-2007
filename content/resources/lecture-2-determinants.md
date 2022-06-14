@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Determinants; cross product
 
 **Instructor:** Prof. Denis Auroux
+

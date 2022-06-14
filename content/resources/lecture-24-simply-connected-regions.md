@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Simply connected regions; review
 
 **Instructor:** Prof. Denis Auroux
+

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Path independence and conservative fields
 
 **Instructor:** Prof. Denis Auroux
+

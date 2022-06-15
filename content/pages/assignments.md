@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments for the course and information
+  about problem set format, homework rules, and a key to notation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides summaries of the lectures as written by Professor
+  Auroux to the recitation instructors.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/38997951b714e04e4800b9a07f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
